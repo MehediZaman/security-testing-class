@@ -6,7 +6,7 @@ This repository is the example code and lab environment for the the Security Tes
 
 
 ### Vulnerable Web Application
-http://google-gruyere.appspot.com/
+http://google-gruyere.appspot.com
 
 #### Get started
 
