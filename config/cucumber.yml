@@ -1,1 +1,1 @@
-default: TARGET_HOSTNAME=docker.for.mac.localhost
+default: TARGET_HOSTNAME=172.17.0.1
